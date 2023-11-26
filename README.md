@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React,Node,Mongo DB,Express,tailwind,JavaScript,HTML/CSS**
 
-- 📫 How to reach me **Robelmuluwork91@gmail.com**
+- 📫 How to reach me **Robelmuluwork@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
