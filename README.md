@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Web Design**
+- 👯 I’m looking to collaborate on **Web-Design Wen-Development OpenSource projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-updated-orpin.vercel.app/](https://portfolio-updated-orpin.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-updated-orpin.vercel.app/](https://vercel.com/robel16/robel-muluwork)
 
 - 💬 Ask me about **React,Node,Mongo DB,Express,tailwind,JavaScript,HTML/CSS**
 
